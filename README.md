@@ -1,5 +1,5 @@
 # COVID-Door-Screening
-This is a COVID-19 symptom door screening system. This systems purpose is to determine whether a person trying to enter a room is COVID negative by asking the user various questions and taking a temperature reading. The system also monitors the occupancy of a room to make sure that there are not too many people in one room.
+This is a COVID-19 symptom door screening system. This systems purpose is to determine whether a person trying to enter a room is COVID negative by asking the user various questions and taking a temperature reading. The system also monitors the occupancy of a room to make sure that there are not too many people in one room. This system uses various push buttons to determine the user's answer, a distance sensor to monitor someone trying to leave the room, an OLED screen to communicate with the user, a DC motor to simulate the locking and unlocking of a door, and various colored LEDs to display the room occupancy percentage. All of this is done in C code using an ATMega328p.
 
 Video 1 Link: https://drive.google.com/file/d/10RBgkNKbW8vOPP0VAnyErfPoyMYO6g5A/view?usp=sharing
 
